@@ -1,0 +1,3 @@
+- This project explores the Wine Quality dataset from the UCI Machine Learning Repository, which contains physicochemical properties of red wine samples and their corresponding quality scores. The objective of this analysis is to perform an Exploratory Data Analysis (EDA) to understand the distribution of the variables, identify patterns, detect outliers, and analyze relationships between chemical attributes and wine quality.
+
+- Through data visualization and statistical summaries, the project aims to uncover which factors are most strongly associated with wine quality and to provide insights that can support further predictive modeling.
